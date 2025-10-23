@@ -1,6 +1,6 @@
 # bank-account-sim
 
-This is a WIP console-based C++ bank account simulation, where users will be able to deposit, withdraw and balance checks.
+This is a console-based C++ bank account simulation, where users will be able to create, save, load and select accounts, and in an account menu, deposit, withdraw and balance checks.
 
 ## Features
 
