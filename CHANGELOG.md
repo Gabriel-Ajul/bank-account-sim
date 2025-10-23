@@ -15,7 +15,7 @@ The format follows [Keep a Changelog](https://keepchangelog.com/en/1.0.0/).
 
 # Demo GIF
 
-![Live demo](v0.1Demo.gif)
+![Program Demo](images/demo.gif)
 
 ## [v0.2] - 2025-10-23
 ### Added
