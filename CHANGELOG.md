@@ -12,3 +12,16 @@ The format follows [Keep a Changelog](https://keepchangelog.com/en/1.0.0/).
 - Simple exit feature
 - Console I/O messages
 - First commit of project structure
+
+# Demo GIF
+
+![Live demo](v0.1Demo.gif)
+
+## [v0.2] - 2025-10-23
+### Added
+- List account feature
+- Select account feature
+- Save accounts to file feature
+- Load accounts from file feature
+- Account menu w/ deposit, withdrawal, display balance and transaction history
+-Second commit of project structure
