@@ -110,7 +110,7 @@ int main() {
             double init;
             if (!(cin >> init)) { cout << "Invalid amount." << endl; clearInput(); break; }
             accounts.emplace_back(name, init);
-            cout << "Account created for " << name << "." << endl;
+            cout << "Account created for " << name << " with balance: $" << init << endl;
             break;
         }
         
