@@ -12,8 +12,9 @@ The format follows [Keep a Changelog](https://keepchangelog.com/en/1.0.0/).
 - Simple exit feature
 - Console I/O messages
 - First commit of project structure
+- Recorded v0.1 Demo GIF
 
-# Demo GIF
+# v0.1 Demo GIF
 
 ![Program Demo](images/demo.gif)
 
@@ -24,4 +25,9 @@ The format follows [Keep a Changelog](https://keepchangelog.com/en/1.0.0/).
 - Save accounts to file feature
 - Load accounts from file feature
 - Account menu w/ deposit, withdrawal, display balance and transaction history
--Second commit of project structure
+- Second commit of project structure
+- Recorded v0.2 Demo GIF
+
+# v0.2 Demo GIF
+
+![Program Demo](images/demo2.gif) 
